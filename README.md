@@ -14,9 +14,6 @@ Biomarker, Machine Learning, BMI, Triglycerides, High Density Lipoprotein, Blood
 - [NHANES ML Biomarker Data (Metric IQR 1.5)](https://github.com/SapioSentient/Biomarker-Machine-Learning-Data/blob/main/NHANES_ML_Biomarker_Data_Metric_IQR(1.5).csv)
 
 
-
-
-
 ## 🚀Summary View
 
 [![Figure 1](https://github.com/SapioSentient/Biomarker-Machine-Learning-Data/blob/main/Figure1.jpg)](https://github.com/SapioSentient/Biomarker-Machine-Learning-Data/blob/main/Figure1.jpg)
