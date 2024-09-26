@@ -16,7 +16,7 @@ Biomarker, Machine Learning, BMI, Triglycerides, High Density Lipoprotein, Blood
 
 ## 🚀Summary View
 
-[![Figure 1](https://github.com/SapioSentient/Biomarker-Machine-Learning-Data/blob/main/Figure1.jpg)]
+![Figure 1](https://github.com/SapioSentient/Biomarker-Machine-Learning-Data/blob/main/Figure1.jpg)
 
 
 
