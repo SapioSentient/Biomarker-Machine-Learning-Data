@@ -1,5 +1,8 @@
 # A Supervised Machine Learning Approach with Feature Selection for Sex-Specific Biomarker Prediction
 
+### Authors
+Luke Meyer, Danielle Mulder, Joshua Wallace
+
 ### Abstract
 Biomarkers are crucial in aiding in disease diagnosis, prognosis, and treatment selection. Machine learning (ML) has emerged as an effective tool for identifying novel biomarkers and enhancing predictive modelling. However, sex-based bias in ML algorithms remains a concern. This study developed a supervised ML model to predict nine common clinical biomarkers, including triglycerides, BMI, waist circumference, systolic blood pressure, blood glucose, uric acid, urinary albumin-to-creatinine ratio, high-density lipoproteins, and albuminuria. The model's predictions were within 5-10% error of actual values. For females, predictions within 10% were as follows; albuminuria 93%, waist circumference 86%, BMI 76%, and 64% for systolic blood pressure and blood glucose. For males, they were 92% for albuminuria, waist circumference 96%, BMI 91%, blood glucose 74%, and systolic blood pressure 68%. Triglycerides, uric acid, urinary albumin-to-creatinine ratio, and high-density lipoproteins had lower than 50% accuracy for both sexes. Overall, males had higher prediction scores than females.
 
